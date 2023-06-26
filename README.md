@@ -1,4 +1,4 @@
-👉 Live Demo: <a href='[https://github-finder-react-tailwind.vercel.app](https://mstfklyc-netflix.vercel.app/)/'>Demo</a>
+👉 Live Demo: <a href='https://mstfklyc-netflix.vercel.app//'>Demo</a>
 
 <h3>Build with:</h3>
 
