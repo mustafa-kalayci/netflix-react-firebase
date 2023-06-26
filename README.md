@@ -1,4 +1,4 @@
-👉 Live Demo: <a href='https://mstfklyc-netflix.vercel.app//'>Demo</a>
+👉 Live Demo: <a href='https://mstfklyc-netflix.vercel.app' target="_blank">Demo</a>
 
 <h3>Build with:</h3>
 
