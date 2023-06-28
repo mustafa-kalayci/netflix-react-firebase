@@ -1,3 +1,14 @@
+👉 Live Demo: <a href='https://mstfklyc-netflix.vercel.app' target="_blank">Demo</a>
+
+<h3>Build with:</h3>
+
+» React JS<br>
+» Tailwind CSS  <br>
+» Context<br>
+» Firebase
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
